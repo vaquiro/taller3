@@ -146,15 +146,12 @@ public class Main {
 					for (int i = 0; i < arrayClientes.size(); i++) {
 						if (arrayClientes.get(i).getDocumento().equals(documento)
 								&& arrayClientes.get(i).getTipoDocumento().equals(tipoDocumento)) {
-
-							for (int j = 0; j < arrayClientes.size(); j++) {
-								System.out.println(MSG_CONSULTA.getLista() + j + ":");
-								System.out.println(MSG_TIPO_DOCUMENTO.getLista() + arrayClientes.get(j).getDocumento());
-								System.out.println(MSG_DOCUMENTO.getLista() + arrayClientes.get(j).getDocumento());
-								System.out.println(MSG_NOMBRE.getLista() + arrayClientes.get(j).getNombre());
-								System.out.println(MSG_TELEFONO.getLista() + arrayClientes.get(j).getTelefono());
-								System.out.println(MSG_DIRECCION.getLista() + arrayClientes.get(j).getDireccion());
-							}
+							System.out.println(MSG_CONSULTA.getLista() + i + ":");
+							System.out.println(MSG_TIPO_DOCUMENTO.getLista() + arrayClientes.get(i).getDocumento());
+							System.out.println(MSG_DOCUMENTO.getLista() + arrayClientes.get(i).getDocumento());
+							System.out.println(MSG_NOMBRE.getLista() + arrayClientes.get(i).getNombre());
+							System.out.println(MSG_TELEFONO.getLista() + arrayClientes.get(i).getTelefono());
+							System.out.println(MSG_DIRECCION.getLista() + arrayClientes.get(i).getDireccion());
 
 							break;
 						}
