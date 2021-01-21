@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81f9d71d-a6aa-4017-831c-19e036216acf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1234231399">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="41" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="41" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/clientes/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/APP REPOSITORIO" value="PREVIEW" />
+        <entry key="$USER_HOME$/APP REPOSITORIO/canales" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/DOJO" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/Dojo2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/BackendCMPS_21_Agosto/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Backend_CMPS/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/RepoXML/AW1065001_Finacle_Recaudos_XML_Test/FinacleRecaudos_XML" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio Menu CMPS 04-Julio/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio/Repo_Sep_10_NE" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio/Repo_Sep_12/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio/Repositorio_Septiembre_02" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio/Repositorio_Septiembre_02/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio/Repositorio_Septiembre_02/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio_Back_CMPS_12_Agosto/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatizacion/Repositorio_Menu_Jorge_Julio_29/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/REPOSITORIO MENUS FINACLE/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/Repo07MayoOficial/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/Repositorio Menu CMPS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/Repositorio Menu CMPS/AW1065001_FINACLEERECO_TEST" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/Repositorio Menu CMPS/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/Repositorio Menus Finacle Backend/AW1065001_FinacleEnt_Recaudos_Backend_Test/FinacleRecaudos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/Repositorio menus Finacle 07 Mayo/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Automatización/RepositorioMayo08/AW1065001_FINACLEERECO_TEST/PruebasAutomatizadas" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../BackSVE_NUEVO/AW1065001_FinacleEnt_Recaudos_Backend_Test/FinacleRecaudos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../BackendSVE/AW1065001_FinacleEnt_Recaudos_Backend_Test/FinacleRecaudos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../1 - Información del proyecto/4 - Privado y confidencial/Automatizacion/Repositorio/Repo_18_Oct_CIBP/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../1 - Información del proyecto/4 - Privado y confidencial/Automatizacion/Repositorio/Repo_21_Oct_CIBP/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Springboot/demo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../MADMINREPO/AW1277009_ModuloAdministrativoBoton_Test/ModuloAdministrativoBoton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../PAYPROREPO/ISADQ0001_AdquirenciaMediosDePago_Test/AdquirenciaMediosDePago" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/BACKENDSVE/AW1065001_FinacleEnt_Recaudos_Backend_Test/FinacleRecaudos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/BACKEND_SVE_30_ENERO/AW1065001_FinacleEnt_Recaudos_Backend_Test/FinacleRecaudos" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/CAMBIOS/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/CAMBIOS/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/DATOS/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/DBCONEXION/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Frontend Anulaciones/AW0360001_SVE_TEST/SVE" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP001/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP001_DatosConsulta/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP02/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativoBoton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP03/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativoBoton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP04/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP05/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP06/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP06/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativoBoton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP07/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP07/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativoBoton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP08/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP09/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP10/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP11/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP12/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP13/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP14/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP15/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/MDP2021/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativo" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/NU0026001_MODULO_ADMINISTRATIVO_MEDIOS_DE_PAGO_Test/ModuloAdministrativoBoton" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/RecaudadorFrontSVE/AW0360001_SVE_TEST/SVE" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo05_Dic_CMPS/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo14_Nov_CDAD/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo31_Oct_CDAD/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo_08_Enero" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo_13_Dic_CMPS_CDAD/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo_21_Oct_CIBP/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/Repo_27_Dic/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/RepositorioFinacleDevelop/AW1065001_FINACLEERECO_TEST/FINACLE_MENU_RECAUDOS" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/SVERECAUDADOR/Repo_23_Enero/AW0360001_SVE_TEST" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/SVERECAUDADOR/Repo_23_Enero/AW0360001_SVE_TEST/SVE" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../Repositorio/XML_Repositorio_28Nov/AW1065001_Finacle_Recaudos_XML_Test/FinacleRecaudos_XML" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../../../../RetoLider/Valentina/Reto%20Valentina/Valentina/RetoValentina" value="PREVIEW" />
+        <entry key="$USER_HOME$/Downloads" value="PREVIEW" />
+        <entry key="$USER_HOME$/WorkSpace Linea Base" value="PREVIEW" />
+        <entry key="$USER_HOME$/eclipse-workspace/ApiumCalculadoraAndroid" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/clientes/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="y" value="2" />
+    <option name="width" value="1378" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gestionClientePolimorfismoHerencias-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionClientePolimorfismoHerencias-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gestionClientePolimorfismoHerencias-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionClientePolimorfismoHerencias-master" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gestionClientePolimorfismoHerencias-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionClientePolimorfismoHerencias-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gestionClientePolimorfismoHerencias-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionClientePolimorfismoHerencias-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gestionClientePolimorfismoHerencias-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionClientePolimorfismoHerencias-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="clientes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gestionClientePolimorfismoHerencias-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gestionClientePolimorfismoHerencias-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="constantes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1611252978281" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.testRunning" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Cucumber java.All Features in: gestionClientePolimorfismoHerencias-master">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.clientes.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All Features in: gestionClientePolimorfismoHerencias-master" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: gestionClientePolimorfismoHerencias-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit">
+      <module name="gestionClientePolimorfismoHerencias-master" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="METHOD_NAME" value="" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/src/com/clientes/Main.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Unnamed" />
+      <item itemvalue="Cucumber java.All Features in: gestionClientePolimorfismoHerencias-master" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: gestionClientePolimorfismoHerencias-master" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81f9d71d-a6aa-4017-831c-19e036216acf" name="Default Changelist" comment="" />
+      <created>1611159590994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611159590994</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__gestionClientePolimorfismoHerencias-master - 2021.01.20 at 16h 02m 39s.xml">
+      <configuration name="All Features in: gestionClientePolimorfismoHerencias-master" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32993197" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="SonarLint" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/constantes/Constantes.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/clientes/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="27" column="33" lean-forward="true" selection-start-line="27" selection-start-column="33" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
